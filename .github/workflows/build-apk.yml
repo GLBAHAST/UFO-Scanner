@@ -1,5 +1,7 @@
 name: Build UFO Scanner APK
 
+# Fixed: libtinfo5 typo corrected
+
 on:
   push:
     branches: [ main ]
